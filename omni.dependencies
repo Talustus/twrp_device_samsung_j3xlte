@@ -1,6 +1,6 @@
 [
   {
-    "remote": "omnirom",
+    "remote": "Talustus",
     "repository": "android_kernel_samsung_sharkls",
     "target_path": "kernel/samsung/sharkls",
     "revision": "lineage-15.1"
