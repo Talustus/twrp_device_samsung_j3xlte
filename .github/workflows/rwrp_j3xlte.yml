@@ -43,7 +43,7 @@ jobs:
         source build/envsetup.sh
         export ALLOW_MISSING_DEPENDENCIES=true
         export LC_ALL="C"
-        lunch omni_j3xnlte-eng
+        lunch omni_j3xlte-eng
         mka recoveryimage
         export PATH=$OLDPATH
         export JAVA_HOME=$OLDJAVAHOME
